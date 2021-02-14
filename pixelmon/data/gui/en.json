@@ -1,0 +1,26 @@
+{
+  "mainMenu": {
+    "state": "In the Main Menu",
+    "largeImageText": "Main Menu"
+  },
+  "loadingGame": {
+    "state": "Loading the Game",
+    "largeImageText": "ChisdealHDYT Pixelmon Modpack",
+    "details": "Loading %d mods"
+  },
+  "inGame": {
+    "multiPlayer": {
+      "largeImageText": {
+        "unknown": "Pixelmon Server",
+        "ip": "IP: %s"
+      },
+      "state": "Playing on Pixelmon Alpha Server",
+      "details": "IGN: %s"
+    },
+    "singlePlayer": {
+      "state": "Singleplayer Mode",
+      "largeImageText": "World: %s",
+      "details": "IGN: %s"
+    }
+  }
+}
