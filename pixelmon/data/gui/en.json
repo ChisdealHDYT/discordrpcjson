@@ -5,7 +5,7 @@
   },
   "loadingGame": {
     "state": "Loading the Game",
-    "largeImageText": "ChisdealHDYT Pixelmon Modpack",
+    "largeImageText": "ChisdealHDYT Modpack",
     "details": "Loading %d mods"
   },
   "inGame": {
@@ -14,7 +14,7 @@
         "unknown": "Pixelmon Server",
         "ip": "IP: %s"
       },
-      "state": "Playing on Pixelmon Alpha Server",
+      "state": "Playing on Alpha Server",
       "details": "IGN: %s"
     },
     "singlePlayer": {
